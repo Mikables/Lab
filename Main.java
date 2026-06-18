@@ -46,7 +46,9 @@ public class Main
 
         /***** OUTPUT SECTION *****/
         System.out.println ("Julian Day Number for today's date, 2/2/2020, is "+  +JDN);
+        System.out.println ();
         System.out.println ("Julian Day Number for birthday, 8/26/1918, is "+  +JDN1);
+        System.out.println ();
         System.out.println ("The difference in days is "+  +dif+  " which makes you approximately 101 years old!");
 
     }

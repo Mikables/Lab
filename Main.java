@@ -22,6 +22,7 @@ public class Main
         int m1 = 11;
         int JDN1 = 2421832;
         int dif;
+        int age = 101;
 
 
         /***** INITIALIZATION SECTION *****/
@@ -49,7 +50,7 @@ public class Main
         System.out.println ();
         System.out.println ("Julian Day Number for birthday, 8/26/1918, is "+  +JDN1);
         System.out.println ();
-        System.out.println ("The difference in days is "+  +dif+  " which makes you approximately 101 years old!");
+        System.out.println ("The difference in days is "+  +dif+  " which makes you approximately "+  +age+  " years old!");
 
     }
 }
